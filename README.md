@@ -9,8 +9,6 @@ The application is built using HTML, CSS, and JavaScript, with a focus on a clea
 
 Live Link --> https://lovely-faloodeh-875688.netlify.app
 
-![image](https://github.com/user-attachments/assets/252bf773-3142-45ef-96ad-c96ac7495f30)
-
 ## Features
 
 - **Relaxation Section**: Click on the "RELAX" button to access a meditation tool that helps you unwind and relax.
@@ -19,6 +17,12 @@ Live Link --> https://lovely-faloodeh-875688.netlify.app
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/5b6361d3-b461-4c84-9aac-0848629c5851)
+
+![image](https://github.com/user-attachments/assets/51393b71-a57a-4725-b614-f9c7916bb136)
+
+![image](https://github.com/user-attachments/assets/3d259e22-1643-4b10-acee-f2ade2f478a8)
+
+
 
 ## How to Use
 
