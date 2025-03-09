@@ -1,7 +1,4 @@
 # Productivity Hack
-
-Live Link: https://652593742cf8ce124c4a11c2--snazzy-starship-be2053.netlify.app
-
 ## Overview
 
 This project is a simple web application designed to help users improve their productivity by offering two main features:
