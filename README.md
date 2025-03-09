@@ -1,4 +1,5 @@
 # Productivity Hack
+
 ## Overview
 
 This project is a simple web application designed to help users improve their productivity by offering two main features:
@@ -7,7 +8,9 @@ This project is a simple web application designed to help users improve their pr
 
 The application is built using HTML, CSS, and JavaScript, with a focus on a clean and user-friendly interface.
 
-Live Link --> https://lovely-faloodeh-875688.netlify.app
+## Live Link
+
+[Live Demo](https://lovely-faloodeh-875688.netlify.app)
 
 ## Features
 
@@ -16,13 +19,11 @@ Live Link --> https://lovely-faloodeh-875688.netlify.app
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/5b6361d3-b461-4c84-9aac-0848629c5851)
+![Relaxation Section](https://github.com/user-attachments/assets/5b6361d3-b461-4c84-9aac-0848629c5851)
 
-![image](https://github.com/user-attachments/assets/51393b71-a57a-4725-b614-f9c7916bb136)
+![Countdown Timer](https://github.com/user-attachments/assets/51393b71-a57a-4725-b614-f9c7916bb136)
 
-![image](https://github.com/user-attachments/assets/3d259e22-1643-4b10-acee-f2ade2f478a8)
-
-
+![User Interface](https://github.com/user-attachments/assets/3d259e22-1643-4b10-acee-f2ade2f478a8)
 
 ## How to Use
 
@@ -41,3 +42,19 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/atharvabhairam/creativity-01.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd creativity-01
+   ```
+
+3. Open the `index.html` file in your preferred web browser.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
